@@ -1,5 +1,5 @@
 ---
-title: Page 1
+title: 
 description: Guide et ressources de l’UAC Butembo – Page 1.
 ---
 
