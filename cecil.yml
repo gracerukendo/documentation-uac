@@ -1,7 +1,7 @@
 # Statidocs default config
 title:  Documentation UAC
 baseline: Bienvenue sur la plateforme officielle de documentation de UAC Butembo.
-baseurl: /
+baseurl: https://gracerukendo.github.io/documentation-uac
 description: Write your pages in Markdown, customize templates with Twig and Tailwind CSS, and enjoy the power of Cecil static site generator.
 author:
   name: Arnaud Ligny
