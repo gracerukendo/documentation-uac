@@ -1,9 +1,9 @@
 ---
-title: 
+title: Page 2
 description: Ressources et guides supplémentaires de l’UAC Butembo – Page 2.
 ---
 
-# Documentation de l’UAC Butembo – Page 2
+# Documentation de l’UAC Butembo 
 
 ## Ressources complémentaires
 

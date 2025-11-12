@@ -3,7 +3,7 @@ title:
 description: Guide et ressources de l’UAC Butembo – Page 1.
 ---
 
-# Documentation de l’UAC Butembo – Page 1
+# Documentation de l’UAC Butembo
 
 ## Présentation générale
 
